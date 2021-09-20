@@ -1,9 +1,6 @@
 # Author: MOG 9/17/21
 
 # Population on 9/23/20
-from typing import final
-
-
 starting_population = 331832432
 # Net gain of one person every 25 seconds
 one_person = 25
